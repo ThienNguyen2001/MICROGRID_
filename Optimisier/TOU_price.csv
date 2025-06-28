@@ -1,0 +1,6 @@
+Start,End,Type,Rate
+4:00,8:00,Standard,0.12
+9:00,11:00,On-peak,0.21
+12:00,17:00,Standard,0.12
+18:00,20:00,On-peak,0.21
+21:00,3:00,Off-peak,0.076
